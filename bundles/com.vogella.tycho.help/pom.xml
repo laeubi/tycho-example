@@ -6,7 +6,7 @@
 		<groupId>com.vogella.tycho</groupId>
 		<artifactId>bundles</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
-		<relativePath>../pom.tycho</relativePath>
+		<relativePath>../.polyglot.pom.tycho</relativePath>
 	</parent>
 
 	<artifactId>com.vogella.tycho.help</artifactId>
